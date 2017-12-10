@@ -1,0 +1,12 @@
++++
+title = "Animations needed for January release."
+date = 2006-11-13T14:12:00Z
+updated = 2006-11-13T14:17:58Z
+tags = ["art assets"]
+blogimport = true 
+[author]
+	name = "Darian Hickman"
+	uri = "https://plus.google.com/115033250601381085689"
++++
+
+<table class="tblGenFixed" style="font-size: 10pt;" id="tblMain_0" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="rAll"><br /></td><td style="font-weight: bold;" class="g s0">type/label</td><td style="font-weight: bold;" class="g s0">title</td><td style="font-weight: bold;" class="g s0">description</td><td style="font-weight: bold;" class="g s0">sound effects</td></tr><tr><td class="rAll"><br /></td><td class="g s1">Nonplayer Character</td><td class="g s1">farmer using Kickstart pump</td><td class="g s1">Farmer mounting pump and water spraying onto field.  Need well or stream to show source of water.</td><td class="g s1">oscillation of pump; water spraying onto crop; water sucking thru hose?</td></tr><tr><td class="rAll"><br /></td><td class="g s1">Player Character</td><td class="g s1">Entrepreneur walking around town</td><td class="g s1">Enterpreneur needs to look like the other villagers in town.</td><td class="g s2"><br /></td></tr><tr><td class="rAll"><br /></td><td class="g s1">Nonplayer Character</td><td class="g s1">farmer walking into town to buy tools (especially Kickstart pump)</td><td class="g s1">Common farmer behavior is walking into town for buying supplies, tools.</td><td class="g s2"><br /></td></tr><tr><td class="rAll"><br /></td><td class="g s1">Nonplayer Character</td><td class="g s1">farmer selling harvest</td><td class="g s1">Farmer coming into town with harvest.</td><td class="g s2"><br /></td></tr><tr><td class="rAll"><br /></td><td class="g s1">Nonplayer Character</td><td class="g s1">villagers buying/selling in marketplace</td><td class="g s1">need all villagers to walk around village; some go to open air markets; some go into stores and come out with merchandise</td><td class="g s2"><br /></td></tr><tr><td class="rAll"><br /></td><td class="g s1">Environment</td><td class="g s1">drought animation</td><td class="g s1">Crops toasting. Maybe some kind of dust particle effect where everything turns brown; Ponds and streams dry suddenly like God is finishing his cup of iced tea.</td><td class="g s1">Straw sucking noise like God is finishing his glass of iced tea.</td></tr></tbody></table>

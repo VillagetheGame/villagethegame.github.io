@@ -1,0 +1,11 @@
++++
+title = "We Can Take Action"
+date = 2006-07-05T16:59:00Z
+updated = 2007-11-30T22:18:40Z
+blogimport = true 
+[author]
+	name = "Darian Hickman"
+	uri = "https://plus.google.com/115033250601381085689"
++++
+
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.villagethegame.com/uploaded_images/villagegarden-734258.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://www.villagethegame.com/uploaded_images/villagegarden-734251.jpg" alt="" border="0" /></a><br />Six million children die every year due to hunger... 400 million people have no access to potable water... We may often read these statistics and think to ourselves, "The world's problems are so BIG, there's nothing we can do about it." However, we should think positively and for a moment believe that there is SOMETHING that can be done. For those of us wanting to positively impact basic human necessity, especially of the degree found in developing countries, this animated commercial at least provides one possible avenue to help alleviate poverty.<br /><br />Village the Game is a casual game currently being developed to connect changers and activists with the tools, ideas, and networks to create and get involved with socioeconomic change. "Social enterprising" is a relatively hot, new practice of non-profit and for-profit corporations partnering up with rural and urban villagers in places like Kenya, India, Mexico, Peru, and so forth to help them make the most out of the resources they have readily available. Companies like <a href="http://www.kiva.org/"><i>Kiva</i>, </a>which does microlending, or <i><a href="http://www.kickstart.org/">KickStart</a>,</i> which manufactures foot-powered irrigation pumps are already impacting countries' national GDPs and people's livelihoods. These two companies are just a handful of examples of some of the networks being featured within Village the Game.<br /><br />"Play it. Love it. Live it." This is the motto for Village, which aims to connect social enterprises with the people willing to participate -- both in the virtual world and real world. For more information, visit our web page at <a href="http://www.villagethegame.com/">www.villagethegame.com</a>

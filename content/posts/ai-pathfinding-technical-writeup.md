@@ -1,0 +1,12 @@
++++
+title = "AI Pathfinding Technical Writeup"
+date = 2007-02-09T13:49:00Z
+updated = 2007-02-19T13:59:27Z
+tags = ["design"]
+blogimport = true 
+[author]
+	name = "Darian Hickman"
+	uri = "https://plus.google.com/115033250601381085689"
++++
+
+AI Pathfinding Write up<br /><br />We need to create a lightweight pathfinding algorithm to support 100 villagers running around on one map that ranges in size from 64x64 tiles to 128x128 tiles. This pathfinding algorithm should be written in C, or C++.  The map on which villagers are moving contains heavily trafficked routes as well as completely untrafficked areas such as river or forest.  The AI should be able to handle basic collision between two villagers and reroute them efficiently.  A typical map will have a town center which is a very common destination for the villagers and 20 to 80 huts which are another common destination but more spread out. The edges of the map do not wrap around like PAC-man.  The map just ends there. The villagers can move in 8 directions only.  up, down, left, right and the 4 diagonals in between.<br />Further requirements:<br /><ol><li>For weighting tiles on ease of traversing, use the scheme: 0 = impassible, 5 = open grassland, 10 = well-paved road. Conditions of a tile can change over time, for example dirt roads (6)  can be improved to well-paved roads (10).<br /></li><li>Destinations for some paths are multiple tiles.  For example, a villager can complete a walk to Kickstart store by arriving at any tile adjacent to the Kickstart store.<br /></li><li>Pathfinding has to allow for interruptions.  For example, the player avatar can walk up to a villager and the villager must stop to converse and then resume walking after the conversation.<br /></li></ol>This code will be incorporated into a realtime strategy game built on Torque Game Builder.  We'll be testing at the minimum system specs that GarageGames recommends on Windows.<br />Windows Minimum: 500 MHz processor, 256 MB RAM, Windows 98, OpenGL or DirectX compatible accelerated 3D video card.<br /><br />Here is a sample map where villagers will often be walking:<br /><br /><table style="width: auto;"><tbody><tr><td><a href="http://picasaweb.google.com/darian.hickman/VillagethegameCom/photo#5029655451913227522"><img src="http://lh6.google.com/image/darian.hickman/Rczs_DnlDQI/AAAAAAAAAsY/hKXaNmuppmM/s288/top.jpg" /></a></td></tr><tr><td style="font-family: arial,sans-serif; font-size: 66%; text-align: right;"><br /></td></tr></tbody></table>

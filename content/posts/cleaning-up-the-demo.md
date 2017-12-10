@@ -1,0 +1,11 @@
++++
+title = "Cleaning up the Demo"
+date = 2007-03-18T13:45:00Z
+updated = 2007-03-18T14:06:12Z
+blogimport = true 
+[author]
+	name = "Darian Hickman"
+	uri = "https://plus.google.com/115033250601381085689"
++++
+
+<table style="width: 194px;"><tbody><tr><td style="background: transparent url(http://picasaweb.google.com/f/img/transparent_album_background.gif) no-repeat scroll left center; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" align="center"><a href="http://picasaweb.google.com/darian.hickman/DemoCleanup"><img src="http://lh4.google.com/image/darian.hickman/Re-cQHyhfIE/AAAAAAAAA7Q/n77EibcKv2c/s160-c/DemoCleanup.jpg" style="margin: 1px 0pt 0pt 4px;" height="160" width="160" /></a></td></tr><tr><td style="text-align: center; font-family: arial,sans-serif; font-size: 11px;"><a href="http://picasaweb.google.com/darian.hickman/DemoCleanup" style="color: rgb(77, 77, 77); font-weight: bold; text-decoration: none;">Demo Cleanup</a></td></tr></tbody></table>After a few setbacks in schedule we have a functional demo. Yay!  Now all we have to do is make it fun and pretty.  While I'm cleaning up some of the torquescript, here's what we need artists/TGB experts to do:<br /><br /><span style="font-weight: bold;">Map<br /></span>The 64x64 tile map is built but still needs to be integrated.  A TGB guru needs to lay down the full tileset and then update the hard-coded paths so villagers will walk along the roads and such.<br /><br /><span style="font-weight: bold;">Player Avatar</span><br />8 rotations of the <a href="http://picasaweb.google.com/darian.hickman/DemoCleanup/photo#5037475420621280418">player/villager avatar static sprite</a> are done but they need to be turned into animations for walking, using pump, tending field, buying pump, buying mightylight, getting loans.<br /><br /><span style="font-weight: bold;">HUD - Heads Up Display</span><br />Need new skin for the top bar and for bottom bar.  Also layout of content in stat windows for <a href="http://picasaweb.google.com/darian.hickman/DemoCleanup/photo#5037480780740465874">villager </a>and for <a href="http://picasaweb.google.com/darian.hickman/DemoCleanup/photo#5037480849459942626">player </a>need updating.<br /><br /><span style="font-weight: bold;"></span>
