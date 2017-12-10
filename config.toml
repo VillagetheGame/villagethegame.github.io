@@ -1,4 +1,4 @@
-baseURL = "http://blog3.villagethegame.com/"
+baseURL = "http://blog3.villagethegame.com"
 languageCode = "en-us"
 title = "My New Village Static Site"
 theme = "ananke"
